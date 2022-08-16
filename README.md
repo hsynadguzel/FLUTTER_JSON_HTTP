@@ -1,5 +1,6 @@
 # FLUTTER_JSON_HTTP
  Using data from "json" file using "http" library. ("Http" kütüphanesini kullanarak "json" dosyasındaki verileri kullanma.)
+ 
  Bu proje gerçekleştirilirken Hasan ADIGÜZEL'in yazmış olduğu "Merkez Bankası Bilgi Amaçlı Kur API" json dosyasındaki veriler kullanılmıştır.
  API Ziyaret Linki: "http://hasanadiguzel.com.tr/api/bilgiamackur"
 
