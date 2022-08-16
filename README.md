@@ -2,7 +2,7 @@
  Using data from "json" file using "http" library. ("Http" kütüphanesini kullanarak "json" dosyasındaki verileri kullanma.)
  
  Bu proje gerçekleştirilirken Hasan ADIGÜZEL'in yazmış olduğu "Merkez Bankası Bilgi Amaçlı Kur API" json dosyasındaki veriler kullanılmıştır.
- API Ziyaret Linki: "http://hasanadiguzel.com.tr/api/bilgiamackur"
+ API Ziyaret Linki: "http://hasanadiguzel.com.tr/api/bilgiamackur".
 
 ![Screenshot_1660643766](https://user-images.githubusercontent.com/98910348/184857047-3b0d9467-0e6c-4160-9d10-4af3b70b3be8.png)
 
