@@ -1,6 +1,8 @@
 # FLUTTER_JSON_HTTP
  Using data from "json" file using "http" library. ("Http" kütüphanesini kullanarak "json" dosyasındaki verileri kullanma.)
  
+ While carrying out this project, the data in the "Central Bank Informational Setup API" json file written by Hasan ADIGÜZEL was used. API Visit Link: "http://hasanadiguzel.com.tr/api/bilgiamackur".
+ 
  Bu proje gerçekleştirilirken Hasan ADIGÜZEL'in yazmış olduğu "Merkez Bankası Bilgi Amaçlı Kur API" json dosyasındaki veriler kullanılmıştır.
  API Ziyaret Linki: "http://hasanadiguzel.com.tr/api/bilgiamackur".
 
